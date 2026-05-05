@@ -2,8 +2,8 @@
 
 ## Developed By
 
-- Nada  
-- Laraib  
+- Nada Taufik Shahbal - 25523266
+- Laraib Arshad - 25523275
 
 ## Course
 
